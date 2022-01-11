@@ -8,9 +8,11 @@ The purpose of this analysis is to take both the launch dates and funding goals 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The first thing I did was relate the campaign outcomes to their launch date. I performed this using a pivot table, with filters allowing certain years and categories to be selected. 
+![Outcomes vs. Launch Date](https://github.com/Nveatch/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+The first thing I did was relate the theater campaign outcomes to their launch date. I performed this using a pivot table, with filters allowing certain years and categories to be selected. 
 
 ### Analysis of Outcomes Based on Goals
+![Outcome vs. Goal](https://github.com/Nveatch/Kickstarter-Analysis/blob/main/resources/Outcomes_vs_Goals.png)
 The second chart I made related the successfulness of the campaigns to the funding goal set. I did this using the “countifs” function with the original Kickstarter data set, which allowed me to tally up all the outcomes for each goal cost bracket. 
 
 ### Challenges and Difficulties Encountered
